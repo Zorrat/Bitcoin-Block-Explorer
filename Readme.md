@@ -1,5 +1,7 @@
 # Bitcoin Block Explorer and Analytics
 
+[Bitcoin SQL DB](Analyzing Bitcoin.pdf)
+
 - Applied all databased Design Concepts for modeling the on-chain bitcoin data to SQL DB including Decomposition and getting tables in correct Normal Forms.
 - Applied all SQL DB Design and logical schema constraints.
 - Speed Up Block transactions retrieval with Clustered Indexes
